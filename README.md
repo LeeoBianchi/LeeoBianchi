@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Leo Alessandro Bianchi.
+- 🎓 I’m currently a MSc in Computational Physics student at the University of Milan, Italy. I've recently spent 1 semester studying at UiO, Norway for Erasmus.
+- 📍 Milan, Italy.
