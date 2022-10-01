@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Leo Alessandro Bianchi.
-- 🎓 I’m currently a MSc in Computational Physics student at the University of Milan, Italy. I've recently spent 1 semester studying at University of Oslo, Norway for Erasmus. Currently studing at Ludwig-Maximilian University of Munich, Germany for an Erasmus semester.
+- 🎓 I’m currently a MSc in Computational Physics student at the University of Milan, Italy. I've recently spent 1 semester for Erasmus studying at University of Oslo, Norway where I am currently carrying out my master thesis project. Previously also spent a semester studing at Ludwig-Maximilian University of Munich, Germany for Erasmus.
 - 📍 Milan, Italy.
