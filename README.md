@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Leo Bianchi.
-- 🎓 I’ve recently graduated from a Master in Computational Physics student at the University of Milan, Italy. During my studies I've spent months for Erasmus studying at University of Oslo, Norway and the Ludwig-Maximilian University (LMU) of Munich, Germany.
+- 🎓 I’ve recently graduated from a Master in Computational Physics student at the University of Milan, Italy. During my studies I've spent several months studying both at the University of Oslo, Norway and the Ludwig-Maximilian University (LMU) of Munich, Germany.
 - At the University of Oslo I also recently carried out my master thesis project for [Cosmoglobe](https://www.cosmoglobe.uio.no).
 - 📍 Milan, IT.
